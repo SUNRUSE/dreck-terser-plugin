@@ -1,6 +1,6 @@
 {
   "name": "dreck-terser-plugin",
-  "description": "Minifies all *.js source files (and specific *.js intermediate files) to equivalent *.min.js intermediate files (e.g. ./src/a/b.js minifies to ./ephemeral/intermediate/a/b.min.js).",
+  "description": "Minifies Javascript files.",
   "version": "0.0.0",
   "engines": {
     "node": ">=10.19.0"
