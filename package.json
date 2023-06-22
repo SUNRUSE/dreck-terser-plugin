@@ -16,6 +16,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "terser": "5.13.1"
+    "terser": "5.14.2"
   }
 }
